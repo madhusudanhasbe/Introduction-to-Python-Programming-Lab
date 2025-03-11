@@ -1,5 +1,5 @@
 # Introduction to Python Programming Lab Assignments (Semester 1)
-This repository contains a collection of Python programs and exercises completed as part of my first-semester coursework. These assignments cover fundamental Python programming concepts and provide a solid foundation in problem-solving and coding skills.
+This repository contains a collection of Python programs and exercises completed as part of my first-semester coursework. 
 
 ---
 
